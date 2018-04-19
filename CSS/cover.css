@@ -10,13 +10,13 @@ a:hover {
 }
 
 /* Custom default button */
-.btn-secondary,
-.btn-secondary:hover,
-.btn-secondary:focus {
-  color: #333;
-  text-shadow: none; /* Prevent inheritance from `body` */
-  background-color: #fff;
-  border: .05rem solid #fff;
+.btn-primary,
+.btn-primary:hover
+.btn-primary:focus {
+  color: #fff;
+  text-shadow: 1px 1px 2px rgb(100, 100, 100), 0 0 1em rgb(0, 0, 0), 0 0 0.2em rgb(0, 0, 0);
+  background-color: transparent;
+  border: .2rem solid #fff;
 }
 
 
@@ -112,7 +112,7 @@ body {
 }
 
 /*
- * My Edits
+ * Stuff I added
  */
  @font-face {
   font-family: "60sPop";
@@ -163,9 +163,4 @@ body {
 .masthead-brand {
   /* font-family: "FargoFaroNF"; */
   font-family: "HuskyStash-Regular";
-}
-/* .text-center { */
-  /* background-image: url(https://unsplash.com/photos/pRRSpbCFUOM); */
-  /* background-size: cover; */
-  /* background-position: center; */
 }
