@@ -28,7 +28,7 @@ html,
 body {
   height: 100%;
   background-color: transparent;
-  background-image: url(C:/Users/pahl/Documents/GitHub/Local_Lines_MTB/images/test.jpg);
+  background-image: url(C:/Users/pahl/Documents/GitHub/MTB_Nation/images/test.jpg);
   background-size: cover;
   background-position: center;
 }
@@ -112,27 +112,20 @@ body {
  * My Edits
  */
  @font-face {
-  font-family: "East_Lift";
-  src: url("C:/Users/pahl/Documents/GitHub/Local_Lines_MTB/CSS/fonts/East_Lift.woff") format("woff");
-  font-weight: normal;
-  font-style: normal;
- }
- @font-face {
   font-family: "HuskyStash-Regular";
-  src: url("C:/Users/pahl/Documents/GitHub/Local_Lines_MTB/CSS/fonts/huskystash.woff2") format("woff2");
+  src: url("C:/Users/pahl/Documents/GitHub/MTB_Nation/CSS/fonts/huskystash.woff2") format("woff2");
   font-weight: normal;
   font-style: normal;
 }
  @font-face {
   font-family: "Pincoyablack-Black";
-  src: url("C:/Users/pahl/Documents/GitHub/Local_Lines_MTB/CSS/fonts/pincoyablack.woff2") format("woff2");
+  src: url("C:/Users/pahl/Documents/GitHub/MTB_Nation/CSS/fonts/pincoyablack.woff2") format("woff2");
   font-weight: normal;
   font-style: normal;
 }
 .cover-heading {
   /* font-family: "Pincoyablack-Black"; */
-  font-family: "East_Lift";
-  /* font-family: "HuskyStash-Regular"; */
+  font-family: "HuskyStash-Regular";
   font-size: 6em;
 }
 .masthead-brand {
