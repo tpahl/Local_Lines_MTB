@@ -121,5 +121,7 @@ body {
   font-style: normal;
 }
 .cover-heading {
+  /* font-family: "Pincoyablack-Black"; */
   font-family: "HuskyStash-Regular";
+  font-size: 6em;
 }
