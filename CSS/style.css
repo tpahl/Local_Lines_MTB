@@ -1,0 +1,21 @@
+
+
+
+
+
+
+
+/* font converted using font-converter.net. thank you! */
+
+
+  /* font converted using font-converter.net. thank you! */
+@font-face {
+    font-family: "Pincoyablack-Black";
+    src: url("C:/Users/pahl/Documents/GitHub/MTB_Nation/CSS/fonts/pincoyablack.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+  }
+
+.h1, h1
+    font-family: "HuskyStash-Regular";
+}
