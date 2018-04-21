@@ -26,10 +26,6 @@ a:hover {
 .cover-heading, .masthead-brand, .lead {
   text-shadow: 1px 1px 2px rgb(5, 5, 5), 0 0 .2em rgb(0, 0, 0), 0 0 0.2em rgb(0, 0, 0);
 }
-/* h1, 
-h3 {
-  text-shadow: .02em .02em .1em rgb(87, 87, 87), 0 0 1em rgb(0, 0, 0), 0 0 0.2em rgb(0, 0, 0);
-} */
 
 html,
 body {
@@ -44,8 +40,7 @@ body {
   display: -ms-flexbox;
   display: flex;
   color: #fff;
-  text-shadow: 0 .05rem 2rem rgba(0, 0, 0, .5);
-  /* text-shadow: 1px 1px 2px rgb(212, 212, 212), 0 0 1em rgb(109, 109, 109), 0 0 0.2em rgb(0, 0, 0); */
+  text-shadow: 1px 1px 2px rgb(100, 100, 100), 0 0 1em rgb(0, 0, 0), 0 0 0.2em rgb(0, 0, 0);
   box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5);
 }
 
@@ -132,12 +127,6 @@ body {
   font-weight: normal;
   font-style: normal;
 }
- @font-face {
-  font-family: "Pincoyablack-Black";
-  src: url("C:/Users/pahl/Documents/GitHub/Local_Lines_MTB/CSS/fonts/pincoyablack.woff2") format("woff2");
-  font-weight: normal;
-  font-style: normal;
-}
 @font-face {
   font-family: "mexcellent";
   src: url("C:/Users/pahl/Documents/GitHub/Local_Lines_MTB/CSS/fonts/mexcellent.woff2") format("woff2");
@@ -150,24 +139,15 @@ body {
   font-weight: normal;
   font-style: normal;
 }
-@font-face {
-  font-family: "FargoFaroNF";
-  src: url("C:/Users/pahl/Documents/GitHub/Local_Lines_MTB/CSS/fonts/FargoFaroNF.woff2") format("woff2");
-  font-weight: normal;
-  font-style: normal;
-}
 .cover-heading {
-  /* font-family: "FargoFaroNF"; */
   /* font-family: "60sPop"; */
   /* font-family: "vanillawhale"; */
   /* font-family: "mexcellent"; */
-  /* font-family: "Pincoyablack-Black"; */
   /* font-family: 'Bungee Inline', cursive; */
   font-family: "HuskyStash-Regular";
   font-size: 6em;
 }
 .masthead-brand {
-  /* font-family: "FargoFaroNF"; */
   font-family: "HuskyStash-Regular";
 }
 .card {
